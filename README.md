@@ -11,9 +11,9 @@ I'm a **Software Developer** with a passion for building web applications and so
 Here are some of the technologies and tools I work with:
 
 ### Programming Languages
-- **Python** (Proficient)
-- **JavaScript** (Proficient)
-- **HTML/CSS** (Proficient)
+- **Python**
+- **JavaScript** 
+- **HTML/CSS**
 
 ### Frameworks & Libraries
 - **Flask** (Web Development)
